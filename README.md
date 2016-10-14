@@ -1,5 +1,5 @@
 # CrossCompilation
-Compile programs for macOS, Linux and Windows from your mac
+Compile C or C++ programs for macOS, Linux and Windows from your mac
 
 Instructions
 ------------
@@ -18,4 +18,13 @@ tar -xJf FILENAME.tar.xz
 * Open the makefile
 * Change the compilers paths or flags if necessary
 * Run the **makefile** using "make" command on the terminal  
+
 **5 -** The makefile should have been compiled the example program for **macOS, linux and Windows**.  
+
+Links
+----
+* Cross GCC on MacOS: http://crossgcc.rts-software.org/doku.php
+  Original author: Pierre Molinaro ©
+
+* GCC: https://gcc.gnu.org
+
