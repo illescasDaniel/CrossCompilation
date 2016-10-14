@@ -1,5 +1,5 @@
-windowsPath = ~/Downloads/CrossCompilation/Compilers/Windows
-linuxPath = ~/Downloads/CrossCompilation/Compilers/Linux
+windowsPath = ~/Downloads/CrossCompilation-1.0/Compilers/Windows
+linuxPath = ~/Downloads/CrossCompilation-1.0/Compilers/Linux
 
 # Libraries = -L lib
 Headers = -I include
