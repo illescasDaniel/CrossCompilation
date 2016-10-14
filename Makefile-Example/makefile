@@ -1,5 +1,5 @@
-windowsPath = ~/Downloads/"MAC Software"/"Cross compilation"/Compilers/Windows
-linuxPath = ~/Downloads/"MAC Software"/"Cross compilation"/Compilers/Linux
+windowsPath = ~/Downloads/CrossCompilation/Compilers/Windows
+linuxPath = ~/Downloads/CrossCompilation/Compilers/Linux
 
 # Libraries = -L lib
 Headers = -I include
