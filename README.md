@@ -1,4 +1,8 @@
 # CrossCompilation
+![OS](https://img.shields.io/badge/os-macOS-lightgrey.svg)
+![Language](https://img.shields.io/badge/language-C%2FC%2B%2B-red.svg)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)  
+
 Compile C or C++ programs for macOS, Linux and Windows from your mac.
 
 Instructions
