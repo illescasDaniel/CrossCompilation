@@ -1,6 +1,6 @@
 ## COMPILER PATHS ##
-windowsPath = ~/Downloads/"MAC Software"/CrossCompilation-1.0/Compilers/Windows
-linuxPath = ~/Downloads/"MAC Software"/CrossCompilation-1.0/Compilers/Linux
+windowsPath = ~/Downloads/CrossCompilation-1.0.1/Compilers/Windows
+linuxPath = ~/Downloads/CrossCompilation-1.0.1/Compilers/Linux
 
 ## FLAGS ##
 #Libraries = -L lib
