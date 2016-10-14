@@ -14,7 +14,7 @@ Instructions
 * Open **Linux.txt** or **Windows.txt**,
 * Open the link inside to **download the compiler**.  
 
-**3 -** Decompress the "**.tar.xz**" file/s using this command (FILENAME will be "Linux" or "Windows":  
+**3 -** Decompress the "**.tar.xz**" file/s in the compilers folder, you can use this command (FILENAME will be "Linux" or "Windows":  
 ```bash
 tar -xJf FILENAME.tar.xz
 ```
