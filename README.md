@@ -8,7 +8,7 @@ Compile C or C++ programs for macOS, Linux and Windows from your mac.
 Instructions
 ------------
 
-**1 -** Download the latest version of the project from the "**releases**" tab or [here](https://github.com/illescasDaniel/CrossCompilation/archive/v1.0.zip).  
+**1 -** Download the latest release of the project from the "**releases**" tab or [here](https://github.com/illescasDaniel/CrossCompilation/archive/v1.0.1.zip).  
 **2 -** Decompress the file: 
 * Go to the **compilers** folder, 
 * Open **Linux.txt** or **Windows.txt**,
