@@ -9,6 +9,7 @@ Instructions
 ------------
 
 **1 -** Download the latest release of the project from the "**releases**" tab or [here](https://github.com/illescasDaniel/CrossCompilation/archive/v1.0.1.zip).  
+
 **2 -** Decompress the file: 
 * Go to the **compilers** folder, 
 * Open **Linux.txt** or **Windows.txt**,
@@ -23,7 +24,7 @@ tar -xJf FILENAME.tar.xz
 * Change the compilers paths or flags if necessary,
 * Run the **makefile** using "make" command on the terminal.  
 
-**5 -** The makefile should have been compiled the example program for **macOS, linux and Windows**.  
+**5 -** The makefile should have compiled the example program for **macOS, linux and Windows**.  
 
 Links
 ----
